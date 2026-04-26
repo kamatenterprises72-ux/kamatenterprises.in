@@ -42,7 +42,7 @@ export default function Contact() {
                       <h4 className="text-lg font-bold mb-2">Our Location</h4>
                       <p className="text-gray-600 leading-relaxed">
                         SHOP NO.3 NEVALI NAKA, OPP. SHIV MANDIR,<br />
-                        NEAR MHADA COLONY, AMBERNATH 421306
+                        NEAR MHADA COLONY, KALYAN 421306
                       </p>
                     </div>
                   </div>
@@ -66,8 +66,8 @@ export default function Contact() {
                     </div>
                     <div>
                       <h4 className="text-lg font-bold mb-2">Email Us</h4>
-                      <a href="mailto:kamat.enterprises72@gmail.com" className="text-gray-600 hover:text-brand-orange transition-colors">
-                        kamat.enterprises72@gmail.com
+                      <a href="mailto:contact@kamatenetrprises.in" className="text-gray-600 hover:text-brand-orange transition-colors">
+                        contact@kamatenetrprises.in
                       </a>
                     </div>
                   </div>

@@ -11,7 +11,7 @@ export default function Home() {
         {/* Background Image with Overlay */}
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=2070&auto=format&fit=crop" 
+            src="https://images.unsplash.com/photo-1560930950-8cc38cd00657?q=80&w=2070&auto=format&fit=crop" 
             alt="Professional Painting" 
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"
@@ -27,7 +27,7 @@ export default function Home() {
               transition={{ duration: 0.6 }}
             >
               <span className="inline-block px-4 py-1.5 bg-brand-orange text-white text-xs font-bold uppercase tracking-widest rounded-full mb-6">
-                Ambernath's Trusted Paint Experts
+                Kalyan's Trusted Paint Experts
               </span>
               <h1 className="text-4xl md:text-6xl lg:text-7xl text-white font-display font-bold leading-[1.1] mb-6">
                 Premium Painting Services at <span className="text-brand-orange">Budget Price</span>
@@ -174,7 +174,7 @@ export default function Home() {
             <div className="flex flex-col justify-center">
               <h3 className="text-2xl font-bold mb-6">Residential Transformation</h3>
               <p className="text-gray-400 mb-8 leading-relaxed">
-                This project involved a complete interior overhaul for a 3BHK apartment in Ambernath. 
+                This project involved a complete interior overhaul for a 3BHK apartment in Kalyan. 
                 We used premium Berger Silk finishes to give the walls a luxurious sheen while ensuring 
                 durability and easy maintenance.
               </p>

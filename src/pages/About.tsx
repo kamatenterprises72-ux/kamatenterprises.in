@@ -10,7 +10,7 @@ export default function About() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-display font-bold mb-6">About Kamat Enterprises</h1>
           <p className="text-gray-600 max-w-2xl mx-auto text-lg">
-            Your trusted partner for high-quality painting solutions and premium paint products in Ambernath.
+            Your trusted partner for high-quality painting solutions and premium paint products in Kalyan.
           </p>
         </div>
       </section>
@@ -37,7 +37,7 @@ export default function About() {
               <div>
                 <h2 className="text-3xl font-display font-bold mb-6">Our Story</h2>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  Kamat Enterprises was founded with a simple mission: to provide the people of Ambernath and surrounding areas with painting services that combine professional quality with honest, budget-friendly pricing.
+                  Kamat Enterprises was founded with a simple mission: to provide the people of Kalyan and surrounding areas with painting services that combine professional quality with honest, budget-friendly pricing.
                 </p>
                 <p className="text-gray-600 leading-relaxed">
                   As an authorized dealer of Berger Paints, we don't just provide labor; we provide the best materials in the industry. Over the years, we have grown from a small local shop to a comprehensive painting solutions provider for residential, commercial, and industrial clients.

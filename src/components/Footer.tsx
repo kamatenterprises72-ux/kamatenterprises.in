@@ -19,7 +19,7 @@ export default function Footer() {
               </div>
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Trusted paint dealer and professional painting service provider in Ambernath. 
+              Trusted paint dealer and professional painting service provider in Kalyan. 
               Transforming spaces with premium quality and budget-friendly solutions.
             </p>
             <div className="flex gap-4">
@@ -65,7 +65,7 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex gap-3 text-sm text-gray-400">
                 <MapPin size={20} className="text-brand-orange shrink-0" />
-                <span>SHOP NO.3 NEVALI NAKA, OPP. SHIV MANDIR, AMBERNATH 421306</span>
+                <span>SHOP NO.3 NEVALI NAKA, OPP. SHIV MANDIR, KALYAN 421306</span>
               </li>
               <li className="flex gap-3 text-sm text-gray-400">
                 <Phone size={20} className="text-brand-orange shrink-0" />
@@ -76,7 +76,7 @@ export default function Footer() {
               </li>
               <li className="flex gap-3 text-sm text-gray-400">
                 <Mail size={20} className="text-brand-orange shrink-0" />
-                <a href="mailto:kamat.enterprises72@gmail.com" className="hover:text-white">kamat.enterprises72@gmail.com</a>
+                <a href="mailto:contact@kamatenetrprises.in" className="hover:text-white">contact@kamatenetrprises.in</a>
               </li>
             </ul>
           </div>
