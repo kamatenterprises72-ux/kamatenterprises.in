@@ -1,5 +1,6 @@
 {
-  "name": "Kamat Enterprises - Premium Painting Services",
+  "name": "Kamat Enterprises",
   "description": "Professional painting services and Berger Paints dealer in Kalyan, Maharashtra. Interior, exterior, waterproofing, and more at budget-friendly prices.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
