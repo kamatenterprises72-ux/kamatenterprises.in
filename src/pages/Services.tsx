@@ -9,6 +9,7 @@ const services = [
     title: "Interior Painting",
     desc: "Give your rooms a fresh, vibrant look with our premium interior painting. We handle everything from wall preparation to the final coat.",
     benefits: ["Smooth finish", "Odorless paints", "Color consultation", "Furniture protection"],
+    // NOTE: Replace with image 1 (Interior Painting - Berger Silk, Dulux, Asian Paints)
     img: "https://images.unsplash.com/photo-1562663474-6cbb3fee4c77?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -16,6 +17,7 @@ const services = [
     title: "Exterior Painting",
     desc: "Protect and beautify your building's exterior. Our weather-resistant coatings ensure your property looks great for years.",
     benefits: ["Weather protection", "Anti-algae coating", "High durability", "Crack bridging"],
+    // NOTE: Replace with image 2 (Exterior Painting - Berger Weathercoat, Dulux Weathershield, Asian Paints Ultima)
     img: "https://images.unsplash.com/photo-1518605336347-48d0697d93a4?q=80&w=1000&auto=format&fit=crop"
   },
   {
@@ -23,6 +25,7 @@ const services = [
     title: "Waterproofing Solutions",
     desc: "Say goodbye to damp walls and leakages. Our advanced waterproofing treatments protect your structure from water damage.",
     benefits: ["Terrace waterproofing", "Wall dampness treatment", "Basement sealing", "Long-term warranty"],
+    // NOTE: Replace with image 3 (Waterproofing - Dr Fixit Crack-X, PIDIPROOF, Raincoat)
     img: "https://images.unsplash.com/photo-1503387762-592dee58c160?q=80&w=1000&auto=format&fit=crop"
   },
   {

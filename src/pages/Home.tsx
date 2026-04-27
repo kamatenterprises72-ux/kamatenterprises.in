@@ -145,9 +145,9 @@ export default function Home() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
-              { title: "Interior Painting", desc: "Premium emulsions (Berger, Asian, Dulux).", img: "https://images.unsplash.com/photo-1562663474-6cbb3fee4c77?q=80&w=1000&auto=format&fit=crop" },
-              { title: "Exterior Painting", desc: "Weather-proof coatings for longevity.", img: "https://images.unsplash.com/photo-1518605336347-48d0697d93a4?q=80&w=1000&auto=format&fit=crop" },
-              { title: "Waterproofing", desc: "Dr. Fixit seepage solutions.", img: "https://images.unsplash.com/photo-1503387762-592dee58c160?q=80&w=1000&auto=format&fit=crop" },
+              { title: "Interior Painting", desc: "Premium emulsions (Berger, Asian, Dulux).", img: "/images/image1.jpg" },
+              { title: "Exterior Painting", desc: "Weather-proof coatings for longevity.", img: "/images/image2.jpg" },
+              { title: "Waterproofing", desc: "Dr. Fixit seepage solutions.", img: "/images/image3.jpg" },
             ].map((service, i) => (
               <div key={i} className="group relative h-96 rounded-2xl overflow-hidden shadow-lg">
                 <img src={service.img} alt={service.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" referrerPolicy="no-referrer" />
