@@ -84,7 +84,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-sm font-bold text-gray-400 tracking-widest uppercase mb-8">Authorized Dealer Of</h2>
           <div className="flex flex-wrap justify-center items-center gap-8 md:gap-16 opacity-70 grayscale hover:grayscale-0 transition-all">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Berger_Paints_Logo.svg/1200px-Berger_Paints_Logo.svg.png" alt="Berger" className="h-12 w-auto object-contain" referrerPolicy="no-referrer" />
+            <img src="/images/image1.jpeg" alt="Berger" className="h-12 w-auto object-contain" referrerPolicy="no-referrer" />
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Asian_Paints_Logo.svg/1200px-Asian_Paints_Logo.svg.png" alt="Asian Paints" className="h-12 w-auto object-contain" referrerPolicy="no-referrer" />
             <img src="https://www.dulux.in/content/dam/akzonobel-dulux/master/en/logos/logo-dulux-desktop.png" alt="Dulux" className="h-12 w-auto object-contain" referrerPolicy="no-referrer" />
             <img src="https://www.drfixit.co.in/sites/default/files/dr-fixit-logo.png" alt="Dr. Fixit" className="h-12 w-auto object-contain" referrerPolicy="no-referrer" />
