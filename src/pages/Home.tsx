@@ -146,7 +146,7 @@ export default function Home() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
               { title: "Interior Painting", desc: "Premium emulsions (Berger, Asian, Dulux).", img: "/images/image1.jpeg" },
-              { title: "Exterior Painting", desc: "Weather-proof coatings for longevity.", img: "/images/image2.png" },
+              { title: "Exterior Painting", desc: "Weather-proof coatings for longevity.", img: "public/images/image2.png" },
               { title: "Waterproofing", desc: "Dr. Fixit seepage solutions.", img: "/images/image3.png" },
             ].map((service, i) => (
               <div key={i} className="group relative h-96 rounded-2xl overflow-hidden shadow-lg">
